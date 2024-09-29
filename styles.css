@@ -127,6 +127,7 @@ footer {
     font-size: 0.8em;
     font-family: var(--font-body);
     padding: 10px 0;
+    margin-top: 3rem;
 }
 
 #cohort-dates {
